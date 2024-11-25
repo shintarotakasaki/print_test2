@@ -1,0 +1,4 @@
+pygetwindow 
+pyautogui
+pywin32
+streamlit
